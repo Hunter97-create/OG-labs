@@ -1,2 +1,5 @@
 # OG-labs
-Target
+
+## Discord - Get role
+### Task
+- Daily 10 msg
